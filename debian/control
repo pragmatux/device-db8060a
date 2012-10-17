@@ -1,0 +1,23 @@
+Source: device-db8060a
+Section: embedded
+Priority: extra
+Maintainer: Ryan Kuester <rkuester@insymbols.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+
+Package: device-db8060a
+Architecture: any
+Description: Root package for the db8060a device
+ This is the root package for the DragonBoard 8060a device.
+Depends:
+ board-db8060a,
+ dpkg-autoconfigure-firstboot,
+ ptux-accounts-default,
+ openssh-client,
+ openssh-server,
+ sshd-run,
+ dhcpcd-run-eth0-androidsn,
+ wpasupplicant,
+ iproute,
+ iputils-ping,
+ ${misc:Depends}
