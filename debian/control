@@ -13,11 +13,4 @@ Depends:
  board-db8060a,
  dpkg-autoconfigure-firstboot,
  ptux-accounts-default,
- openssh-client,
- openssh-server,
- sshd-run,
- dhcpcd-run-eth0-androidsn,
- wpasupplicant,
- iproute,
- iputils-ping,
  ${misc:Depends}
