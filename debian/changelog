@@ -1,3 +1,9 @@
+device-db8060a (1.2) unstable; urgency=low
+
+  * Put back networking features
+
+ -- Ryan Kuester <rkuester@insymbols.com>  Sun, 21 Oct 2012 00:13:20 +0000
+
 device-db8060a (1.1) unstable; urgency=low
 
   * Remove all networking features
