@@ -12,7 +12,7 @@ Description: Root package for the db8060a device
 Depends:
  board-db8060a,
  dpkg-autoconfigure-firstboot,
- ptux-accounts-default,
+ accounts-root-password,
  openssh-client,
  openssh-server,
  sshd-run,
