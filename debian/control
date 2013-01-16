@@ -19,5 +19,5 @@ Depends:
  dhcpcd-run-eth0-androidsn,
  iproute,
  iputils-ping,
- apt-transport-https
+ apt-transport-https,
  ${misc:Depends}
