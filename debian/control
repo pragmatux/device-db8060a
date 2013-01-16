@@ -20,4 +20,5 @@ Depends:
  iproute,
  iputils-ping,
  apt-transport-https,
+ apt-source-ptux-device,
  ${misc:Depends}
