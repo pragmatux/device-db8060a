@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.1
 
 Package: device-db8060a
-Architecture: any
+Architecture: all
 Description: Root package for the db8060a device
  This is the root package for the DragonBoard 8060a device.
 Depends:
