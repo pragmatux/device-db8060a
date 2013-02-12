@@ -10,8 +10,18 @@ Architecture: any
 Description: Root package for the db8060a device
  This is the root package for the DragonBoard 8060a device.
 Depends:
+ ptux-essential,
  board-db8060a,
+ baseconfig-ptux,
+ devnodes-ptux,
+ dpkg-autoconfigure,
  dpkg-autoconfigure-firstboot,
+ runit,
+ runit-run-ptux,
+ vim-tiny,
+ procps,
+ wget,
+ module-init-tools,
  accounts-root-password,
  openssh-client,
  openssh-server,
