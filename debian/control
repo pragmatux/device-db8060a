@@ -31,4 +31,6 @@ Depends:
  iputils-ping,
  apt-transport-https,
  apt-source-ptux-device,
+ xserver-xorg-video-fbdev,
+ xserver-xorg-input-evdev,
  ${misc:Depends}
