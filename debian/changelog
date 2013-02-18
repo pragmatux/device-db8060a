@@ -1,3 +1,10 @@
+device-db8060a (2.0) unstable; urgency=low
+
+  * Add xserver-xorg
+  * Add e17
+
+ -- Ryan Kuester <rkuester@insymbols.com>  Mon, 18 Feb 2013 21:33:53 +0000
+
 device-db8060a (1.4) unstable; urgency=low
 
   * Add APT sources for Pragmatux, EmDebian, and Debian
