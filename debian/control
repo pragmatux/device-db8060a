@@ -21,6 +21,7 @@ Depends:
  wget,
  module-init-tools,
  accounts-root-password,
+ connman-run,
  openssh-client,
  openssh-server,
  iproute,
