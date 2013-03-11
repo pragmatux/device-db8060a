@@ -30,5 +30,6 @@ Depends:
  apt-source-ptux-device,
  xserver-xorg-video-fbdev,
  xserver-xorg-input-evdev,
- e17,
+ xorg-run,
+ e17-run,
  ${misc:Depends}
