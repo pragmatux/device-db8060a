@@ -1,3 +1,11 @@
+device-db8060a (2.3) unstable; urgency=low
+
+  * Give e17 a default configuration
+  * Add the epiphany web browser
+  * Add xterm
+
+ -- Ryan Kuester <rkuester@insymbols.com>  Fri, 15 Mar 2013 17:16:47 +0000
+
 device-db8060a (2.2) unstable; urgency=low
 
   * Add connman to manage network interfaces
