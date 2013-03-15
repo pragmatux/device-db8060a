@@ -34,4 +34,5 @@ Depends:
  e17-run,
  e17-config-small,
  epiphany-browser,
+ xterm,
  ${misc:Depends}
