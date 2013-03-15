@@ -32,4 +32,5 @@ Depends:
  xserver-xorg-input-evdev,
  xorg-run,
  e17-run,
+ e17-config-small,
  ${misc:Depends}
