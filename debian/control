@@ -13,7 +13,6 @@ Depends:
  ptux-essential,
  board-db8060a,
  baseconfig-ptux,
- devnodes-ptux,
  systemd-sysv,
  dpkg-autoconfigure-at-boot,
  vim-tiny,
