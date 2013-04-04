@@ -13,6 +13,8 @@ Depends:
  ptux-essential,
  board-db8060a,
  baseconfig-ptux,
+ firmware-db8060a,
+ prima-wlan,
  systemd-sysv,
  dpkg-autoconfigure-at-boot,
  vim-tiny,
